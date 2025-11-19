@@ -1,0 +1,22 @@
+db = {
+  "customers": [
+    {
+      "_id": 1,
+      "name": "Anna Meyer",
+      "email": "anna.meyer@example.com",
+      "status": "active"
+    },
+    {
+      "_id": 2,
+      "name": "Jonas Schulz",
+      "email": "jonas.schulz@example.com",
+      "status": "inactive"
+    },
+    {
+      "_id": 3,
+      "name": "Lea Weber",
+      "email": "lea.weber@example.com",
+      "status": "active"
+    }
+  ]
+}
