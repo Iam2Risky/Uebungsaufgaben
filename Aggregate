@@ -1,0 +1,51 @@
+db = {
+  "orders": [
+    {
+      "_id": 1,
+      "item": "rice",
+      "price": 5,
+      "quantity": 3
+    },
+    {
+      "_id": 2,
+      "item": "potatoes",
+      "price": 2,
+      "quantity": 10
+    },
+    {
+      "_id": 3
+      // Dieses Dokument ist leer oder unvollständig, das bleibt erstmal so
+    }
+  ],
+  "inventory": [
+    {
+      "_id": 1,
+      "sku": "rice",
+      "description": "White Rice",
+      "instock": 200
+    },
+    {
+      "_id": 2,
+      "sku": "potatoes",
+      "description": "Fresh Potatoes",
+      "instock": 150
+    },
+    {
+      "_id": 3,
+      "sku": "pasta",
+      "description": "Italian Pasta",
+      "instock": 90
+    },
+    {
+      "_id": 4,
+      "sku": "beans",
+      "description": "Red Beans",
+      "instock": 70
+    },
+    {
+      "_id": 5,
+      "sku": null,
+      "description": "Incomplete"
+    }
+  ]
+}
