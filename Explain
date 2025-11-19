@@ -1,0 +1,9 @@
+db = {
+  "products": [
+    { "_id": 1, "name": "Rice", "category": "Grains", "price": 2.50 },
+    { "_id": 2, "name": "Potatoes", "category": "Vegetables", "price": 1.20 },
+    { "_id": 3, "name": "Pasta", "category": "Grains", "price": 1.80 },
+    { "_id": 4, "name": "Beans", "category": "Vegetables", "price": 3.00 },
+    { "_id": 5, "name": "Carrots", "category": "Vegetables", "price": 0.90 }
+  ]
+}
