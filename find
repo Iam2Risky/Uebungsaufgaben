@@ -1,0 +1,11 @@
+db = {
+  "customers": [
+    { "_id": 1, "name": "Anna Meyer", "email": "anna.meyer@example.com", "status": "active", "city": "Hamburg", "orders": 2 },
+    { "_id": 2, "name": "Jonas Schulz", "email": "jonas.schulz@example.com", "status": "inactive", "city": "Berlin", "orders": 5 },
+    { "_id": 3, "name": "Lea Weber", "email": "lea.weber@example.com", "status": "active", "city": "Hamburg", "orders": 3 },
+    { "_id": 4, "name": "Timo Neumann", "email": "timo.n@example.com", "status": "active", "city": "Frankfurt", "orders": 0 },
+    { "_id": 5, "name": "Mara Becker", "email": "mara.b@example.com", "status": "inactive", "city": "Berlin", "orders": 1 },
+    { "_id": 6, "name": "Paul Richter", "email": "paul.r@example.com", "status": "active", "city": "Munich", "orders": 4 },
+    { "_id": 7, "name": "Sophie König", "email": "sophie.k@example.com", "status": "active", "city": "Hamburg", "orders": 7 }
+  ]
+}
